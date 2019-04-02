@@ -1,3 +1,7 @@
+# credentials infomation
+credentials.json
+token.json
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
