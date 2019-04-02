@@ -1,2 +1,2 @@
 # auto-uploader
-研究室で日報をGoogle Driveにアップする指示がでたので、これを自動でやる。
+My task having to submit daily report to Google Drive is automatically done.
